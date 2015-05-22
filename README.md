@@ -6,7 +6,7 @@
 
 htmlDomTree包中包含了实现程序核心功能的代码，共包含三个类，其中HtmlDomTree为使用者需要调用的类，创建一个该类的实例即可实现对于网页布局的转换。
 
-程序需要调用htmlcleaner和cssparser两个类库，对应的.jar包已附带在工程的htmlcleaner2.2文件夹下，但在运行整个工程前需要修改其构建路径。
+程序中用到了htmlcleaner和cssparser两个类库。
 
 工程中还提供了两种测试方法：
 
