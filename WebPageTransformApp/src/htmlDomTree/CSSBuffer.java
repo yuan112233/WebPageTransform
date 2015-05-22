@@ -18,7 +18,7 @@ import java.util.Map.Entry;
  * @author Riviera
  *
  */
-public class CSSBuffer 
+class CSSBuffer 
 {
 	/**
 	 * 保存CSS信息的双层Map
