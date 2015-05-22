@@ -32,7 +32,7 @@ import com.steadystate.css.parser.CSSOMParser;
  * @author Riviera
  *
  */
-public class CSSInfo 
+class CSSInfo 
 {
 	TreeMap<String,CSSStyleSheet> css;	//CSS信息
 	String charset;						//使用字符集
